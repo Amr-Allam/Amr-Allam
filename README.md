@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Frontend Web Developer . I have experience building responsive web interfaces with HTML, CSS, and JavaScript (ES6+), and I’m currently expanding my skills with React.
+Junior Frontend Web Developer experienced in building responsive, user-friendly web applications with HTML, CSS, JavaScript (ES6+), and React. Passionate about creating interactive interfaces and clean, maintainable code.
 
 
 ## 🌐 Socials:
